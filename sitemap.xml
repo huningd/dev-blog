@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://huningd.github.io/dev-blog/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://huningd.github.io/dev-blog/blog/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://huningd.github.io/dev-blog/blog/2025/03/25/my-first-dev-post/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://huningd.github.io/dev-blog/blog/archive/2025/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://huningd.github.io/dev-blog/blog/category/python/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://huningd.github.io/dev-blog/blog/category/mkdocs/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://huningd.github.io/dev-blog/blog/category/blogging/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://huningd.github.io/dev-blog/blog/category/social/</loc>
+         <lastmod>2025-03-25</lastmod>
+    </url>
+</urlset>
