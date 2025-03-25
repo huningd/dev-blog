@@ -1,0 +1,74 @@
+/* Overall background */
+body {
+    background-color: #f5f5f5;
+    color: #2e2e2e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Header & Navigation */
+  .md-header {
+    background-color: #4a4a4a;
+    color: #ffffff;
+  }
+  
+  .md-header__title {
+    color: #ffffff !important;
+  }
+  
+  .md-nav__item a {
+    color: #e0e0e0;
+  }
+  
+  .md-nav__item a:hover {
+    color: #ffffff;
+  }
+  
+  /* Main content area */
+  .md-content {
+    background-color: #ffffff;
+    color: #2e2e2e;
+  }
+  
+  /* Headings */
+  h1, h2, h3, h4, h5, h6 {
+    color: #2e2e2e;
+  }
+  
+  /* Code blocks */
+  code, pre {
+    background-color: #eaeaea;
+    color: #333333;
+    border-radius: 5px;
+    padding: 2px 5px;
+  }
+  
+  /* Blockquotes */
+  blockquote {
+    background-color: #eeeeee;
+    border-left: 5px solid #4a4a4a;
+    padding: 10px;
+    margin: 10px 0;
+    color: #444444;
+  }
+  
+  /* Links */
+  a {
+    color: #4a4a4a;
+    text-decoration: underline;
+  }
+  
+  a:hover {
+    color: #606060;
+  }
+  
+  /* Footer */
+  .md-footer {
+    background-color: #4a4a4a;
+    color: #ffffff;
+  }
+  
+  .blog-post h1 {
+    font-size: 2rem;
+    border-bottom: 1px solid #ccc;
+  }
+  
